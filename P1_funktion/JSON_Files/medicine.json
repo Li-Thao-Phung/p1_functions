@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Metocar",
+    "active_ingredients": "metoprolol",
+    "dosage": "50mg",
+    "quantity": "100",
+    "expiry_date": "2021-12-31",
+    "ECC": "assets/metoprolol_50mg_ecc.png",
+    "side_effects": ["nausea", "vomiting", "upset stomach", "drowsiness", "skin rash"],
+    "interactions": ["fluoxetin", "paroxetin", "verapamil", "diltiazem"]
+  },
+  {
+    "name": "Metocar",
+    "active_ingredients": "metoprolol",
+    "dosage": "100mg",
+    "quantity": "100",
+    "expiry_date": "2021-12-31",
+    "ECC": "assets/metoprolol_100mg_ecc.png",
+    "side_effects": ["nausea", "vomiting", "upset stomach", "drowsiness", "skin rash"],
+    "interactions": ["fluoxetin", "paroxetin", "verapamil", "diltiazem"]
+  },
+  {
+    "name": "Paracetamol",
+    "active_ingredients": "acetaminophen",
+    "dosage": "250mg",
+    "quantity": "100",
+    "expiry_date": "2021-12-31",
+    "ECC": "assets/paracetamol_250mg_ecc.png",
+    "side_effects": ["nausea", "vomiting", "upset stomach", "drowsiness", "skin rash"],
+    "interactions": ["warfarin", "flucloxacillin", "lamotrigin"]
+  },
+  {
+    "name": "Paracetamol",
+    "active_ingredients": "acetaminophen",
+    "dosage": "500mg",
+    "quantity": "100",
+    "expiry_date": "2021-12-31",
+    "ECC": "assets/paracetamol_500mg_ecc.png",
+    "side_effects": ["nausea", "vomiting", "upset stomach", "drowsiness", "skin rash"],
+    "interactions": ["warfarin", "flucloxacillin", "lamotrigin"]
+  },
+  {
+    "name": "Hjertemagnyl",
+    "active_ingredients": "acetylsalicylic acid",
+    "dosage": "75mg",
+    "quantity": "100",
+    "expiry_date": "2021-12-31",
+    "ECC": "assets/hjematemagnyl_75mg_ecc.png",
+    "side_effects": ["bleeding", "stomach pain", "nausea", "vomiting", "heartburn"],
+    "interactions": ["ibuprofen", "celecoxib", "diclofenac"]
+  },
+  {
+    "name": "Hjertemagnyl",
+    "active_ingredients": "acetylsalicylic acid",
+    "dosage": "150mg",
+    "quantity": "100",
+    "expiry_date": "2021-12-31",
+    "ECC": "assets/hjematemagnyl_150mg_ecc.png",
+    "side_effects": ["bleeding", "stomach pain", "nausea", "vomiting", "heartburn"],
+    "interactions": ["ibuprofen", "celecoxib", "diclofenac"]
+  },
+  {
+    "name": "Donepezil",
+    "active_ingredients": "donepezil",
+    "dosage": "5mg",
+    "quantity": "100",
+    "expiry_date": "2021-12-31",
+    "ECC": "assets/donepezil_5mg_ecc.png",
+    "side_effects": ["nausea", "vomiting", "diarrhea", "loss of appetite", "muscle cramps"],
+    "interactions": ["aspirin", "ibuprofen", "naproxen", "diclofenac"]
+  },
+  {
+    "name": "Donepezil",
+    "active_ingredients": "donepezil",
+    "dosage": "10mg",
+    "quantity": "100",
+    "expiry_date": "2021-12-31",
+    "ECC": "assets/donepezil_10mg_ecc.png",
+    "side_effects": ["nausea", "vomiting", "diarrhea", "loss of appetite", "muscle cramps"],
+    "interactions": ["aspirin", "ibuprofen", "naproxen", "diclofenac"]
+  },
+  {
+    "name": "Atorvastatin",
+    "active_ingredients": "atorvastatin",
+    "dosage": "10mg",
+    "quantity": "100",
+    "expiry_date": "2021-12-31",
+    "ECC": "assets/atorvastatin_10mg_ecc.png",
+    "side_effects": ["diarrhea", "muscle pain", "joint pain", "sore throat", "runny nose"],
+    "interactions": ["warfarin", "digoxin", "erythromycin", "fluconazole"]
+  },
+  {
+    "name": "Atorvastatin",
+    "active_ingredients": "atorvastatin",
+    "dosage": "40mg",
+    "quantity": "100",
+    "expiry_date": "2021-12-31",
+    "ECC": "assets/atorvastatin_40mg_ecc.png",
+    "side_effects": ["diarrhea", "muscle pain", "joint pain", "sore throat", "runny nose"],
+    "interactions": ["warfarin", "digoxin", "erythromycin", "fluconazole"]
+  },
+  {
+    "name": "Atorvastatin",
+    "active_ingredients": "atorvastatin",
+    "dosage": "80mg",
+    "quantity": "100",
+    "expiry_date": "2021-12-31",
+    "ECC": "assets/atorvastatin_80mg_ecc.png",
+    "side_effects": ["diarrhea", "muscle pain", "joint pain", "sore throat", "runny nose"],
+    "interactions": ["warfarin", "digoxin", "erythromycin", "fluconazole"]
+  },
+  {
+    "name": "Metformin",
+    "active_ingredients": "metformin",
+    "dosage": "500mg",
+    "quantity": "20",
+    "expiry_date": "2021-12-31",
+    "ECC": "assets/metformin_500mg_ecc.png",
+    "side_effects": ["diarrhea", "decresed appetite", "muscle pain", "stomach pain", "nausea"],
+    "interactions": ["digoxin", "furosemide", "nifedipine", "cimetidine"]
+  },
+  {
+    "name": "Metformin Zentiva",
+    "active_ingredients": "metformin",
+    "dosage": "1000mg",
+    "quantity": "100",
+    "expiry_date": "2021-12-31",
+    "ECC": "assets/metformin_1000mg_ecc.png",
+    "side_effects": ["diarrhea", "decresed appetite", "muscle pain", "stomach pain", "nausea"],
+    "interactions": ["digoxin", "furosemide", "nifedipine", "cimetidine"]
+  },
+  {
+    "name": "Zoloft",
+    "active_ingredients": "sertraline",
+    "dosage": "50mg",
+    "quantity": "100",
+    "expiry_date": "2021-12-31",
+    "ECC": "assets/sertralin_50mg_ecc.png",
+    "side_effects": ["diarrhea", "palpitations", "dizziness", "drowsiness", "dry mouth"],
+    "interactions": ["MAO Inhibitors", "aspirin", "ibuprofen", "naproxen"]
+  },
+  {
+    "name": "Zoloft",
+    "active_ingredients": "sertraline",
+    "dosage": "100mg",
+    "quantity": "100",
+    "expiry_date": "2021-12-31",
+    "ECC": "assets/sertralin_100mg_ecc.png",
+    "side_effects": ["diarrhea", "palpitations", "dizziness", "drowsiness", "dry mouth"],
+    "interactions": ["MAO Inhibitors", "aspirin", "ibuprofen", "naproxen"]
+  },
+  {
+    "name": "Cardiostad",
+    "active_ingredients": "lisinopril",
+    "dosage": "5mg",
+    "quantity": "100",
+    "expiry_date": "2021-12-31",
+    "ECC": "assets/lisinopril_5mg_ecc.png",
+    "side_effects": ["diarrhea", "rhinitis", "skin rash", "dizziness", "headache"],
+    "interactions": ["sacubitril", "valsartan ", "trimethoprim"]
+  },
+  {
+    "name": "Cardiostad",
+    "active_ingredients": "lisinopril",
+    "dosage": "10mg",
+    "quantity": "100",
+    "expiry_date": "2021-12-31",
+    "ECC": "assets/lisinopril_10mg_ecc.png",
+    "side_effects": ["diarrhea", "rhinitis", "skin rash", "dizziness", "headache"],
+    "interactions": ["sacubitril", "valsartan ", "trimethoprim"]
+  }
+]

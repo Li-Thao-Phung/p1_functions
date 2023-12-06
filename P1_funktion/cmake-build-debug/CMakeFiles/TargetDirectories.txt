@@ -1,0 +1,3 @@
+C:/Users/litha/CLionProjects/P1_funktion/cmake-build-debug/CMakeFiles/P1_funktion.dir
+C:/Users/litha/CLionProjects/P1_funktion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/litha/CLionProjects/P1_funktion/cmake-build-debug/CMakeFiles/rebuild_cache.dir

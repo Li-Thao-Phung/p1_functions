@@ -1,0 +1,169 @@
+[
+  {
+    "room_number": 101,
+    "CPR": "020150-2812",
+    "first_name": "John",
+    "last_name": "Doe",
+    "date_of_birth": "02-01-1950",
+    "phone_number": "+4512345678",
+    "emergency_contact": ["Jane Doe", "+4512457890", "Wife"],
+    "conditions": ["alzheimers disease", "hypertension", "heart disease"],
+    "medicine": [
+      ["metoprolol", "50mg", "morning"],
+      ["hjertemagnyl", "75mg", "morning"],
+      ["donepezil", "10mg", "morning"]
+    ],
+    "allergies": ["penicillin"]
+  },
+  {
+    "room_number": 102,
+    "CPR": "020150-2812",
+    "first_name": "Jane",
+    "last_name": "Doe",
+    "date_of_birth": "02-01-1950",
+    "phone_number": "+4512345678",
+    "emergency_contact": ["John Doe", "+4512457890", "Husband"],
+    "conditions": ["alzheimers disease", "hypertension", "heart disease"],
+    "medicine": [
+      ["metoprolol", "50mg", "morning"],
+      ["hjertemagnyl", "75mg", "morning"],
+      ["donepezil", "10mg", "morning"]
+    ],
+    "allergies": ["nuts"]
+  },
+  {
+    "room_number": 103,
+    "CPR": "030150-2912",
+    "first_name": "John",
+    "last_name": "Doe",
+    "date_of_birth": "03-01-1950",
+    "phone_number": "+4598765432",
+    "emergency_contact": ["Mary Doe", "+4598987654", "Wife"],
+    "conditions": ["arthritis", "diabetes", "high cholesterol", "enlarged prostate"],
+    "medicine": [
+      ["atorvastatin", "20mg", "morning"],
+      ["metformin", "500mg", "morning"]
+    ],
+    "allergies": ["shellfish", "gluten"]
+  },
+  {
+    "room_number": 104,
+    "CPR": "040150-3012",
+    "first_name": "Sarah",
+    "last_name": "Jones",
+    "date_of_birth": "04-01-1950",
+    "phone_number": "+4587654321",
+    "emergency_contact": ["David Jones", "+4587876543", "Husband"],
+    "conditions": ["alzheimers disease", "dementia", "depression"],
+    "medicine": [
+      ["sertraline", "50mg", "morning"],
+      ["donepezil", "10mg", "morning"]
+    ],
+    "allergies": []
+  },
+  {
+    "room_number": 105,
+    "CPR": "050150-3112",
+    "first_name": "David",
+    "last_name": "Jones",
+    "date_of_birth": "05-01-1950",
+    "phone_number": "+4587654321",
+    "emergency_contact": ["Sarah Jones", "+4587876543", "Wife"],
+    "conditions": ["dementia", "depression"],
+    "medicine": [
+      ["sertraline", "100mg", "morning"],
+      ["donepezil", "10mg", "morning"]
+    ],
+    "allergies": []
+  },
+  {
+    "room_number": 106,
+    "CPR": "060150-3212",
+    "first_name": "Michael",
+    "last_name": "Williams",
+    "date_of_birth": "06-01-1950",
+    "phone_number": "+4576543210",
+    "emergency_contact": ["Jessica Williams", "+4576765432", "Wife"],
+    "conditions": ["arthritis", "hypertension", "heart disease"],
+    "medicine": [
+      ["lisinopril", "20mg", "morning"],
+      ["hjertemagnyl", "75mg", "morning"]
+    ],
+    "allergies": ["penicillin", "nuts", "soy"]
+  },
+  {
+    "room_number": 107,
+    "CPR": "070150-3312",
+    "first_name": "Emily",
+    "last_name": "Davis",
+    "date_of_birth": "07-01-1950",
+    "phone_number": "+4565432109",
+    "emergency_contact": ["Robert Davis", "+4565654321", "Husband"],
+    "conditions": ["dementia", "diabetes", "depression"],
+    "medicine": [
+      ["metformin", "500mg", "morning"],
+      ["citalopram", "20mg", "morning"]
+    ],
+    "allergies": []
+  },
+  {
+    "room_number": 108,
+    "CPR": "080150-3412",
+    "first_name": "Robert",
+    "last_name": "Davis",
+    "date_of_birth": "08-01-1950",
+    "phone_number": "+4565432109",
+    "emergency_contact": ["Emily Davis", "+4565654321", "Wife"],
+    "conditions": ["dementia", "diabetes", "hypertension"],
+    "medicine": [
+      ["metformin", "1000mg", "morning"],
+      ["citalopram", "20mg", "morning"],
+      ["lisinopril", "20mg", "morning"]
+    ],
+    "allergies": []
+  },
+  {
+    "room_number": 109,
+    "CPR": "090150-3512",
+    "first_name": "Matthew",
+    "last_name": "Miller",
+    "date_of_birth": "09-01-1950",
+    "phone_number": "+4554321098",
+    "emergency_contact": ["Ashley Miller", "+4554543210", "Wife"],
+    "conditions": ["Parkinson's disease", "chronic obstructive pulmonary disease"],
+    "medicine": [
+      ["tamsulosin", "0.4mg", "morning"],
+      ["albuterol", "2mg", "morning"]
+    ],
+    "allergies": []
+  },
+  {
+    "room_number": 110,
+    "CPR": "100150-3612",
+    "first_name": "Ashley",
+    "last_name": "Miller",
+    "date_of_birth": "10-01-1950",
+    "phone_number": "+4554321098",
+    "emergency_contact": ["Matthew Miller", "+4554543210", "Husband"],
+    "conditions": ["dementia"],
+    "medicine": [["tamsulosin", "0.4mg", "morning"]],
+    "allergies": ["eggs"]
+  },
+  {
+    "room_number": 111,
+    "CPR": "110150-3712",
+    "first_name": "Christopher",
+    "last_name": "Wilson",
+    "date_of_birth": "11-01-1950",
+    "phone_number": "+4543210987",
+    "emergency_contact": ["Michelle Wilson", "+4543432109", "Wife"],
+    "conditions": ["arthritis", "dementia", "diabetes", "heart disease", "chronic bronchitis"],
+    "medicine": [
+      ["metoprolol", "50mg", "morning"],
+      ["atorvastatin", "20mg", "morning"],
+      ["metformin", "500mg", "morning"],
+      ["albuterol", "2mg", "morning"]
+    ],
+    "allergies": ["shellfish", "nuts", "soy"]
+  }
+]
